@@ -55,7 +55,7 @@
 <img src="path/to/run_dag_image.png" alt="Run DAG" style="max-width:100%;">
 
 <h3>2. Flowchart of the Project Workflow</h3>
-<img src="path/to/flowchart_image.png" alt="Flowchart" style="max-width:100%;">
+<img src="images/Blank diagram (1).jpeg" alt="Flowchart" style="max-width:100%;">
 
 
 <h2>🔧 Usage Instructions</h2>
