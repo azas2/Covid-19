@@ -101,9 +101,3 @@
 <p>Check Airflow task logs for detailed debugging information.</p>
 
 
-<h2>📧 Contact</h2>
-<p>For further assistance, please contact:</p>
-<ul>
-    <li><strong>Name</strong>: [Your Name]</li>
-    <li><strong>Email</strong>: [Your Email]</li>
-</ul>
